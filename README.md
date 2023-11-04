@@ -23,8 +23,8 @@ Construct a Python program to read a text from a file. Identify the verbs from t
 
 ## PROGRAM
 ```
-Developed By: VISHAL GOWTHAMAN K R
-## REG NO: 212221230123
+Developed By: SV ROHITHKUMAR
+## REG NO: 212221230084
 ```
 ```python
 import nltk
